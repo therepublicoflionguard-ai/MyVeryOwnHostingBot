@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "ENDSMPBOT",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "ENDSMPBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "endsmpfree.aternos.me",
+    "port": 28695,
     "version": "",
     "try-creative": false
   },
